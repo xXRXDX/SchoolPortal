@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StackBlitz — Your local env, now in the browser
 
 [![Chat on Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/stackblitz)&nbsp; [![Read our docs](https://img.shields.io/badge/read-our%20docs-1374ef.svg)](https://developer.stackblitz.com)
@@ -18,3 +19,6 @@ This repository serves as our primary way of [keeping track of bugs](https://git
 - Starter templates: [stackblitz/starters](https://github.com/stackblitz/starters)
 - WebContainers: [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
 - WebContainer API docs: [stackblitz/webcontainer-docs](https://github.com/stackblitz/webcontainer-docs)
+=======
+# SchoolPortal
+>>>>>>> 8197ffde1aa38fe1c28b92fe94e8bd997dd33d2f
